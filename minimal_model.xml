@@ -1,0 +1,12 @@
+<models>
+    <model>
+        <!-- Model type. Now catboost only. -->
+        <type>catboost</type>
+        <!-- Model name. -->
+        <name>minimal</name>
+        <!-- Path to trained model. -->
+        <path>set_me_to_your_location/model.bin</path>
+        <!-- Update interval. -->
+        <lifetime>0</lifetime>
+    </model>
+</models>
